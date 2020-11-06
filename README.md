@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi, I'm George 👋
+
+I'm a Software Engineer based in Amsterdam, The Netherlands and currently working in building Web Applications and APIs using (ASP).Net and .Net Core.
+
+- 📫 Connect and reach me on [LinkedIn](https://www.linkedin.com/in/george-garyfallou-177055100/).
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gegaryfa&color=green" alt="gegaryfa" /> </p>
+
+<p align="left">  
+  <img src="https://github-readme-stats.vercel.app/api?username=gegaryfa&show_icons=true" alt="gegaryfa" />
+</p>
+ 
+
 
 <!--
 **gegaryfa/gegaryfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
