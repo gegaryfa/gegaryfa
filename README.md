@@ -1,7 +1,5 @@
 ### Hi, I'm George 👋
 
-I'm a Software Engineer based in Amsterdam, The Netherlands and currently working in building Web Applications and APIs.
-
 - 📫 Connect and reach me on [LinkedIn](https://www.linkedin.com/in/george-garyfallou-177055100/).
 
 
